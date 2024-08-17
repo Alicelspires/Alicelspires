@@ -2,8 +2,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c7ebf0&size=35&center=true&vCenter=true&width=1000&lines=Hey...;I'm+Alice;and+currently+learning+how+to+code;Welcome+to+my+profile!)](https://git.io/typing-svg) 
 
-Future notes about me waiting to be written...
 
+Future notes about me waiting to be written...
 •
 <br>
 • 
@@ -12,8 +12,8 @@ Future notes about me waiting to be written...
 ##
 <div align="center">  
   <a href="https://github.com/Alicelspires"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alicelspires&show_icons=true&count_private=true&hide_border=true&theme=holi" alt="Alice Laila Silva Pires github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&layout=compact&hide_border=true&theme=holi" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alicelspires&show_icons=true&count_private=true&hide_border=true&theme=holi" alt="Alice Laila Silva Pires github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&layout=compact&hide_border=true&theme=holi"/>
 </div>
 <div align="center">
   <a href="https://github.com/Alicelspires">
