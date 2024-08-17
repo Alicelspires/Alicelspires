@@ -11,14 +11,11 @@ Future notes about me waiting to be written...
 
 ##
 <div align="center">  
-  <a href="https://github.com/Alicelspires"> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alicelspires&show_icons=true&count_private=true&hide_border=true&theme=holi" alt="Alice Laila Silva Pires github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&layout=compact&hide_border=true&theme=holi"/>
 </div>
 <div align="center">
-  <a href="https://github.com/Alicelspires">
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=Alicelspires&theme=holi-theme&hide_border=true&border_radius=5.5&mode=weekly" alt="GitHub Streak" />
-  </a>
 </div>
 
 ### Skills in development:
