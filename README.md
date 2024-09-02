@@ -21,28 +21,21 @@ Future notes about me waiting to be written...
 ### Skills in development:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alice-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alice-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alice-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alice-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Alice-HTML" src="https://skillicons.dev/icons?i=html,css,js,py&perline=3">
 </div>
 
 ##
 ### Other knowledge:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alice-Js" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white">
-  <img align="center" alt="Alice-Js" src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
-  <img align="center" alt="Alice-Js" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-  <img align="center" alt="Alice-Js" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
-  <img align="center" alt="Alice-Js" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+  <img align="center" alt="Alice-Figma" src="https://skillicons.dev/icons?i=figma,blender,notion,vscode&theme=dark&perline=3">
 </div>
 
 ##
 ### Contacts:
 <div>
   <a href = "mailto:alicelspires@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
-  <a href="https://www.linkedin.com/in/alice-silva-7596b92a3/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alice-silva-7596b92a3/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:402E7A,25:4C3BCF,50:1EA8AD,100:15450C&height=120&section=footer"/>
