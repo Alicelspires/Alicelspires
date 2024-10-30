@@ -1,11 +1,11 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:08203e,25:4C3BCF,50:1EA8AD,100:0e1c26&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,25:6F91DA,50:ffffff,74:F5E0A5,100:0E1C26&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&color=c7ebf0&size=30&center=true&vCenter=true&width=1000&lines=Hey...;I'm+Alice;and+I'm+currently+learning+how+to+code;Welcome+to+my+profile!)](https://git.io/typing-svg) 
 
-<br>
-<img align="right" width="49%" height="249px" src="https://github-readme-stats.vercel.app/api?username=Alicelspires&show_icons=true&count_private=true&hide_border=true&text_color=&theme=holi" alt="Alice Laila Silva Pires github stats"/> 
-<img align="right" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&theme=holi&hide_border=true&include_all_commits=false&border_radius=3&count_private=false&layout=compact"/>
-<img align="right" width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=Alicelspires&theme=holi-theme&hide_border=true&&mode=weekly&layout=compact" alt="GitHub Streak"/>
+<br><br>
+<img align="right" width="490" height="210px" src="https://github-readme-stats.vercel.app/api?username=Alicelspires&show_icons=true&count_private=true&hide_border=true&text_color=&theme=blue_navy&border_radius=10"/> 
+<img align="right" width="490" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&theme=blue_navy&hide_border=true&include_all_commits=false&border_radius=6&count_private=false&layout=compact"/>
+<img align="right" width="490" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Alicelspires&theme=blue_navy&hide_border=true&&mode=weekly&layout=compact&border_radius=10" alt="GitHub Streak"/>
 
 ### Future notes about me waiting to be written...
 
@@ -33,7 +33,33 @@
   <a href="https://www.linkedin.com/in/alice-silva-7596b92a3/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:08203e,25:4C3BCF,50:1EA8AD,100:0e1c26&height=120&section=footer"/>
+<br><br><br><br><br>
+<h2 align="center"> Repositories</h2>
+<br>
+
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
+    <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=blue_navy&hide_border=true">
+  </a>
+</div> <!--Delete-->
+<!--
+  <a align="right" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
+    <img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=blue_navy&hide_border=true">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
+    <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=blue_navy&hide_border=true">
+  </a>
+  <a align="right" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
+    <img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=blue_navy&hide_border=true">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,25:6F91DA,50:ffffff,74:F5E0A5,100:0E1C26&height=120&section=footer"/>
 
 ## All skills at once:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -56,4 +82,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=Alicelspires&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alicelspires&bg_color=030314&hide_border=true&line=5fabee&title_color=5fabee&area_color=5fabee&color=5fabee&area=true">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alicelspires&bg_color=000000&hide_border=true&line=6F91DA&title_color=6F91DA&area_color=6F91DA&color=6F91DA&area=true&radius=10">
