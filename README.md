@@ -2,10 +2,11 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&color=c7ebf0&size=30&center=true&vCenter=true&width=1000&lines=Hey...;I'm+Alice;and+I'm+currently+learning+how+to+code;Welcome+to+my+profile!)](https://git.io/typing-svg) 
 
-<br><br>
-<img align="right" width="490" height="210px" src="https://github-readme-stats.vercel.app/api?username=Alicelspires&show_icons=true&count_private=true&hide_border=true&text_color=&theme=blue_navy&border_radius=10"/> 
-<img align="right" width="490" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&theme=blue_navy&hide_border=true&include_all_commits=false&border_radius=6&count_private=false&layout=compact"/>
-<img align="right" width="490" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Alicelspires&theme=blue_navy&hide_border=true&&mode=weekly&layout=compact&border_radius=10" alt="GitHub Streak"/>
+<br><br><br>
+<img align="right" width="490" height="210px" src="https://github-readme-stats.vercel.app/api?username=Alicelspires&show_icons=true&count_private=true&hide_border=true&title_color=dab873&theme=ayu-mirage&border_radius=15"/> 
+<img align="right" width="490" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&theme=ayu-mirage&hide_border=true&include_all_commits=false&border_radius=10&count_private=false&layout=compact"/>
+<img align="right" width="490" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Alicelspires&theme=ayu-mirage&hide_border=true&&mode=weekly&layout=compact&border_radius=15" alt="GitHub Streak"/>
+<!--icon_color=0000000&text_color=D3D3D3&bg_color=2c2f33-->
 
 ### Future notes about me waiting to be written...
 
@@ -13,7 +14,15 @@
 <br>
 • 
 <br>
+
+<!--<div align="center">
+  
+  ![experience component](https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20developer%20intern&duration=12m&location=chennai&fill=1f2430&textfill=ffffff)
+
+</div>-->
+
 <hr>
+
 
 ### Skills in development:
 
@@ -39,8 +48,8 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
-    <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=blue_navy&hide_border=true">
-  </a>
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=ayu-mirage&border_radius=10&&hide_border=true">
+  </a> 
 </div> <!--Delete-->
 <!--
   <a align="right" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
@@ -82,4 +91,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=Alicelspires&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alicelspires&bg_color=000000&hide_border=true&line=6F91DA&title_color=6F91DA&area_color=6F91DA&color=6F91DA&area=true&radius=10">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alicelspires&bg_color=1f2430&hide_border=true&line=dab873&title_color=dab873&area_color=6F91DA&color=73d0ff&area=true&radius=10">
