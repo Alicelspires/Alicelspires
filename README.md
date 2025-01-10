@@ -4,7 +4,7 @@
 
 <br><br><br>
 <img align="right" width="490" height="210px" src="https://github-readme-stats.vercel.app/api?username=Alicelspires&show_icons=true&count_private=true&hide_border=true&title_color=dab873&theme=ayu-mirage&border_radius=15"/> 
-<img align="right" width="490" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&theme=ayu-mirage&hide_border=true&include_all_commits=false&border_radius=10&count_private=false&layout=compact"/>
+<img align="right" width="490" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&theme=ayu-mirage&hide_border=true&include_all_commits=false&border_radius=10&count_private=false&layout=compact"/>
 <img align="right" width="490" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=Alicelspires&theme=ayu-mirage&hide_border=true&&mode=weekly&layout=compact&border_radius=15" alt="GitHub Streak"/>
 <!--icon_color=0000000&text_color=D3D3D3&bg_color=2c2f33-->
 
