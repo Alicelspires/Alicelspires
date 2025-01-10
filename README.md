@@ -8,7 +8,7 @@
 <img align="right" width="520" height="190px" src="https://github-readme-streak-stats.herokuapp.com?user=Alicelspires&theme=ayu-mirage&hide_border=true&&mode=weekly&layout=compact&border_radius=15" alt="GitHub Streak"/>
 <!--icon_color=0000000&text_color=D3D3D3&bg_color=2c2f33-->
 
-### Future notes about me waiting to be written...
+### Notes about...
  
 • Sou estudante de Desenvolvimento Web e Multiplataformas, em início de carreira na área de tecnologia, com foco em Front-End e UI Design.
 <br><br>
