@@ -41,8 +41,7 @@
   <a href = "mailto:alicelspires@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
   <a href="https://www.linkedin.com/in/alice-silva-7596b92a3/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a>
 </div>
-
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 <h2 align="center"> Repositories</h2>
 <br>
 
