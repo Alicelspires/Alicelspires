@@ -49,7 +49,7 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=ayu-mirage&border_radius=10&&hide_border=true">
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-Free-Code-Camp&theme=ayu-mirage&border_radius=10&&hide_border=true">
   </a> 
 </div> <!--Delete-->
 <!--
