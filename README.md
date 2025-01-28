@@ -30,18 +30,22 @@
 
 <div style="display: inline_block" align="left">
   <img align="center" alt="Alice-HTML" src="https://skillicons.dev/icons?i=html,css,js,py&perline=4">
+  <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=light">
 </div>
 
 ### Other knowledge:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alice-Figma" src="https://skillicons.dev/icons?i=figma,blender,notion,vscode&theme=dark&perline=4">
+  <img align="center" alt="Alice-Figma" src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,excel&perline=5">
+  <img align="center" alt="Alice-Figma" src="https://go-skill-icons.vercel.app/api/icons?i=inkscape&theme=light"> <!--blender-->
 </div>
 
 ### Contacts:
 <div>
   <a href = "mailto:alicelspires@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
   <a href="https://www.linkedin.com/in/alice-silva-7596b92a3/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a>
+  <a href="https://github.com/Alicelspires" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" target="_blank"></a>
+  <!--<a href="" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=behance&perline=3" target="_blank"></a>-->
 </div>
 
 <h2 align="center"> Repositories</h2>
