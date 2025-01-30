@@ -52,9 +52,9 @@
 <br>
 
 <div align="center" width="100%">
-  <img align="start" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=MyPortfolio&theme=ayu-mirage&border_radius=15&hide_border=true">
-  <img align="end" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-Free-Code-Camp&theme=ayu-mirage&border_radius=15&hide_border=true">
-  <img align="end" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=30DaysCSS&theme=ayu-mirage&border_radius=15&hide_border=true">
+  <img align="start" width="440px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=MyPortfolio&theme=ayu-mirage&border_radius=15&hide_border=true">
+  <img align="end" width="440px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-Free-Code-Camp&theme=ayu-mirage&border_radius=15&hide_border=true">
+  <img align="end" width="440px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=30DaysCSS&theme=ayu-mirage&border_radius=15&hide_border=true">
 </div>
 
 
