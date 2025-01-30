@@ -51,27 +51,12 @@
 <h2 align="center"> Repositories</h2>
 <br>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-Free-Code-Camp&theme=ayu-mirage&border_radius=10&&hide_border=true">
-  </a> 
-</div> <!--Delete-->
-<!--
-  <a align="right" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
-    <img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=blue_navy&hide_border=true">
-  </a>
+<div align="center" width="100%">
+  <img align="start" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=MyPortfolio&theme=ayu-mirage&border_radius=15&hide_border=true">
+  <img align="end" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-Free-Code-Camp&theme=ayu-mirage&border_radius=15&hide_border=true">
+  <img align="end" width="450px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=30DaysCSS&theme=ayu-mirage&border_radius=15&hide_border=true">
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
-    <img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=blue_navy&hide_border=true">
-  </a>
-  <a align="right" href="https://github.com/Alicelspires/Projects-with-FreeCodeCamp">
-    <img align="right" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-FreeCodeCamp&theme=blue_navy&hide_border=true">
-  </a>
-</div>
-<br/><br/><br/><br/><br/><br/>
--->
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,25:6F91DA,50:ffffff,74:F5E0A5,100:0E1C26&height=120&section=footer"/>
 
