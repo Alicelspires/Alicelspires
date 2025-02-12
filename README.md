@@ -52,10 +52,18 @@
 <br>
 
 <div align="center" width="100%">
-  <img align="start" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=MyPortfolio&theme=ayu-mirage&border_radius=15&hide_border=true">
-  <img align="end" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-Free-Code-Camp&theme=ayu-mirage&border_radius=15&hide_border=true">
-  <img align="end" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=30DaysCSS&theme=ayu-mirage&border_radius=15&hide_border=true">
-   <img align="end" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Mind-your-mind&theme=ayu-mirage&border_radius=15&hide_border=true">
+  <a href="https://github.com/Alicelspires/MyPortfolio"> 
+    <img align="start" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=MyPortfolio&theme=ayu-mirage&border_radius=15&hide_border=true"> 
+  </a>
+  <a href="https://github.com/Alicelspires/Projects-with-free-Code-Camp"> 
+    <img align="end" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-Free-Code-Camp&theme=ayu-mirage&border_radius=15&hide_border=true"> 
+  </a>
+  <a href="https://github.com/Alicelspires/30DaysCSS"> 
+    <img align="end" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=30DaysCSS&theme=ayu-mirage&border_radius=15&hide_border=true">
+  </a>
+  <a href="https://github.com/Alicelspires/Mind-your-mind"> 
+    <img align="end" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Mind-your-mind&theme=ayu-mirage&border_radius=15&hide_border=true">
+  </a>
 </div>
 
 
