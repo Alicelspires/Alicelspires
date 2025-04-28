@@ -54,7 +54,7 @@
     <img align="start" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=MyPortfolio&theme=ayu-mirage&border_radius=15&hide_border=true"> 
   </a>
   <a href="https://github.com/Alicelspires/Projects-with-free-Code-Camp"> 
-    <img align="end" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Projects-with-Free-Code-Camp&theme=ayu-mirage&border_radius=15&hide_border=true"> 
+    <img align="end" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=React-Learning-Project_CV-Application&theme=ayu-mirage&border_radius=15&hide_border=true"> 
   </a>
   <a href="https://github.com/Alicelspires/30DaysCSS"> 
     <img align="end" width="420px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=30DaysCSS&theme=ayu-mirage&border_radius=15&hide_border=true">
