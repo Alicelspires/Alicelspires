@@ -29,7 +29,7 @@
 ### Skills in development:
 
 <div style="display: inline_block" align="left">
-  <img align="center" alt="Alice-HTML" src="https://skillicons.dev/icons?i=html,css,js,py,java,bootstrap,git,tailwind,react,nodejs,mysql,express,vite,jest,webpack&perline=5">
+  <img align="center" alt="Alice-HTML" src="https://skillicons.dev/icons?i=html,css,js,py,java,bootstrap,git,tailwind,react,nodejs,mysql,express,vite,jest,sass,ts,webpack&perline=5">
 </div>
 
 ### Other knowledge:
