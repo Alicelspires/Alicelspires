@@ -29,13 +29,13 @@
 ### Skills in development:
 
 <div style="display: inline_block" align="left">
-  <img align="center" alt="Alice-HTML" src="https://skillicons.dev/icons?i=html,css,js,ts,py,java,bootstrap,git,tailwind,react,nodejs,mysql,express,vite,jest,sass,webpack,mongodb,postgres,spring&perline=5">
+  <img align="center" alt="Alice-HTML" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,java,bootstrap,git,tailwind,react,nodejs,mysql,express,vite,jest,sass,webpack,mongodb,spring,neon&perline=5">
 </div>
 
 ### Other knowledge:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Alice-Figma" src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,excel,trello&perline=5">
+  <img align="center" alt="Alice-Figma" src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,excel,miro&perline=5">
 </div>
 
 ### Contacts:
