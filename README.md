@@ -10,11 +10,11 @@
 
 ### Notes about me...
  
-• Sou estudante de Desenvolvimento Web e Multiplataformas, em início de carreira na área de tecnologia, com foco em Front-End e UI Design.
+• Sou estudante de Desenvolvimento Web e Multiplataformas, em início de carreira na área de tecnologia, com foco em Front-End e Web design.
 <br><br>
 • Estou em constante aprendizado para compreender e atender às demandas do mercado atual, com um olhar especial para a criação de interfaces que proporcionem experiências agradáveis e intuitivas aos usuários.
 <br><br>
-• Atualmente, complemento minha formação com cursos online e projetos pessoais, que têm me permitido aplicar e aprofundar conhecimentos em HTML, CSS, JavaScript e princípios de UI/UX Design. 
+• Atualmente, complemento minha formação com cursos e projetos pessoais, que têm me permitido aplicar e aprofundar conhecimentos em React, SASS, Acessibilidade (WCAG), Java, Estrutura de Dados e princípios de UI/UX Design. 
 <br>
 
 <!--<div align="center">
