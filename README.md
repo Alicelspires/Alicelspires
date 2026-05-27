@@ -1,77 +1,101 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,25:6F91DA,50:ffffff,74:F5E0A5,100:0E1C26&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&color=c7ebf0&size=30&center=true&vCenter=true&width=1000&lines=Hey...;I'm+Alice;and+I'm+currently+learning+how+to+code;Welcome+to+my+profile!)](https://git.io/typing-svg) 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5E60CE,100:0E1C26&height=120&section=header"/>
+<div align="center">
 
-<br><br>
-<img align="right" width="520" height="200px" src="https://github-readme-stats.vercel.app/api?username=Alicelspires&show_icons=true&count_private=true&hide_border=true&title_color=dab873&theme=ayu-mirage&border_radius=15"/> 
-<img align="right" width="520" height="262px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alicelspires&theme=ayu-mirage&hide_border=true&include_all_commits=false&border_radius=10&count_private=false&layout=compact"/>
-<img align="right" width="520" height="187px" src="https://github-readme-streak-stats.herokuapp.com?user=Alicelspires&theme=ayu-mirage&hide_border=true&&mode=weekly&layout=compact&border_radius=15" alt="GitHub Streak"/>
-<!--icon_color=0000000&text_color=D3D3D3&bg_color=2c2f33-->
+# Alice Silva
 
-### Notes about me...
- 
-• Sou estudante de Desenvolvimento Web e Multiplataformas, em início de carreira na área de tecnologia, com foco em Front-End e Web design.
-<br><br>
-• Estou em constante aprendizado para compreender e atender às demandas do mercado atual, com um olhar especial para a criação de interfaces que proporcionem experiências agradáveis e intuitivas aos usuários.
-<br><br>
-• Atualmente, complemento minha formação com cursos e projetos pessoais, que têm me permitido aplicar e aprofundar conhecimentos em React, SASS, Acessibilidade (WCAG), Java, Estrutura de Dados e princípios de UI/UX Design. 
+Estudante de Desenvolvimento Web e Multiplataformas com foco em interfaces acessíveis, modernas e intuitivas.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=700&lines=Crafting+modern+interfaces;Designing+accessible+experiences;Learning+something+new+everyday"/>
+
 <br>
 
-<!--<div align="center">
+<img src="https://img.shields.io/badge/frontend%20focused-c4b5fd?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/ui%2Fux%20lover-a78bfa?style=for-the-badge&logo=figma&logoColor=black">
+<img src="https://img.shields.io/badge/accessibility-important-7dd3fc?style=for-the-badge">
+
+</div>
+<br/>
+<div align="left">
+
+```css
+const alice = {
+  pronouns: "she/her",
+  focus: ["frontend", "ui design", "accessibility"],
+  learning: ["react", "sass", "java", "a11y"],
+  aesthetic: "clean interfaces & smooth experiences"
+}
+```
+
+</div>
+
+---
+
+### Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,nodejs,java,mysql,figma,git&theme=dark"/>
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Alicelspires&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### Contact
+
+<p align="center">
+<a href="mailto:alicelspires@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail&theme=dark"/>
+</a>
+
+<a href="https://linkedin.com/in/alice-silva-7596b92a3">
+<img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+</a>
+
+<a href="https://github.com/Alicelspires" target="_blank">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" target="_blank">
+</a>
+</p>
+
+### Skills sempre em aprimoramento:
+
+<div align="left">
   
-  ![experience component](https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20developer%20intern&duration=12m&location=chennai&fill=1f2430&textfill=ffffff)
+#### Frontend
 
-</div>-->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,react,vite,jest,sass,webpack,vitest&perline=20">
+<div/>
 
-<hr>
+<div align="left">
+  
+#### Backend
 
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,java,git,nodejs,mysql,express,mongodb,spring,neon,kotlin,prisma,supabase&perline=20">
+<div/>
 
-### Skills in development:
+<div align="left">
+  
+#### Outros
 
-<div style="display: inline_block" align="left">
-  <img align="center" alt="Alice-HTML" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,py,java,bootstrap,git,tailwind,react,nodejs,mysql,express,vite,jest,sass,webpack,mongodb,spring,neon&perline=5">
-</div>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,excel,miro,arduino,githubactions,docker,kubernetes,vercel&perline=20">
 
-### Other knowledge:
+<br/><br/>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Alice-Figma" src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,excel,miro&perline=5">
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alicelspires&bg_color=171717&hide_border=true&line=5E60CE&point=C4B5FD&color=E2E8F0&area=true&radius=10">
 
-### Contacts:
-<div>
-  <a href = "mailto:alicelspires@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
-  <a href="https://www.linkedin.com/in/alice-silva-7596b92a3/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a>
-  <a href="https://github.com/Alicelspires" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" target="_blank"></a>
-  <!--<a href="" target="_blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=behance&perline=3" target="_blank"></a>-->
-</div>
-
-<h2 align="center"> Repositories</h2>
-<br>
-
-<div align="center" width="100%">
-  <a href="https://github.com/Alicelspires/Portfolio"> 
-    <img align="start" width="410px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Portfolio&theme=ayu-mirage&border_radius=15&hide_border=true"> 
-  </a>
-  <a href="https://github.com/Alicelspires/Projects-with-free-Code-Camp"> 
-    <img align="end" width="410px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=React-Learning-Project_CV-Application&theme=ayu-mirage&border_radius=15&hide_border=true"> 
-  </a>
-  <a href="https://github.com/Alicelspires/30DaysCSS"> 
-    <img align="end" width="410px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=30DaysCSS&theme=ayu-mirage&border_radius=15&hide_border=true">
-  </a>
-  <a href="https://github.com/Alicelspires/Mind-your-mind"> 
-    <img align="end" width="410px" src="https://github-readme-stats.vercel.app/api/pin/?username=Alicelspires&repo=Mind-your-mind&theme=ayu-mirage&border_radius=15&hide_border=true">
-  </a>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,25:6F91DA,50:ffffff,74:F5E0A5,100:0E1C26&height=120&section=footer"/>
-
-[![](https://visitcount.itsvg.in/api?id=Alicelspires&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alicelspires&bg_color=1f2430&hide_border=true&line=dab873&title_color=dab873&area_color=6F91DA&color=73d0ff&area=true&radius=10">
+<br/><br/>
 
 <div align="center">
-  
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Alicelspires.Alicelspires&left_color=grey&right_color=black&left_text=Visitors)
+
+> *"beautiful interfaces are built with empathy."*
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Alicelspires.Alicelspires&left_color=grey&right_color=black&left_text=Visitors)
 
 </div> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:5E60CE,100:0E1C26&height=120&section=footer"/>
