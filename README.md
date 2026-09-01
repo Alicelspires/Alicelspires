@@ -75,14 +75,14 @@ const alice = {
   
 #### Backend
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,java,git,nodejs,mysql,express,mongodb,spring,neon,kotlin,prisma,supabase&perline=20">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,java,git,nodejs,mysql,express,mongodb,spring,neon,kotlin,prisma,supabase,nextjs&perline=20">
 <div/>
 
 <div align="left">
   
 #### Outros
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,excel,miro,arduino,githubactions,docker,kubernetes,vercel&perline=20">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,excel,miro,arduino,githubactions,docker,kubernetes,vercel,androidstudio&perline=20">
 
 <br/><br/>
 
