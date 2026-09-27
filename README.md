@@ -33,7 +33,7 @@ const alice = {
 ### Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,nodejs,java,mysql,figma,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,sass,java,mongodb,figma,git&theme=dark"/>
 </p>
 
 ---
@@ -69,25 +69,23 @@ const alice = {
 #### Frontend
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,react,vite,jest,sass,webpack,vitest&perline=20">
+<img src="https://skills.syvixor.com/api/icons?i=expo,materialui"/>  
 <div/>
 
 <div align="left">
   
 #### Backend
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,java,git,nodejs,mysql,express,mongodb,spring,neon,kotlin,prisma,supabase,nextjs&perline=20">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,java,git,nodejs,mysql,express,mongodb,neon,kotlin,prisma,supabase,nextjs&perline=20">
+<img src="https://skills.syvixor.com/api/icons?i=sonarqube,thunderclient"/>
 <div/>
 
 <div align="left">
   
 #### Outros
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,excel,miro,arduino,githubactions,docker,kubernetes,vercel,androidstudio&perline=20">
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alicelspires&bg_color=171717&hide_border=true&line=5E60CE&point=C4B5FD&color=E2E8F0&area=true&radius=10">
-
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,miro,arduino,githubactions,docker,vercel,androidstudio&perline=20">
+<img src="https://skills.syvixor.com/api/icons?i=microsoftoffice,trello,hackerrank,leetcode,freecodecamp"/>  
 <br/><br/>
 
 <div align="center">
