@@ -68,15 +68,20 @@ const alice = {
   
 #### Frontend
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,react,vite,jest,sass,webpack,vitest&perline=20">
-<img src="https://skills.syvixor.com/api/icons?i=expo,materialui"/>  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,tailwind,react">
+<br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vite,jest,sass,webpack,vitest">
+<img src="https://skills.syvixor.com/api/icons?i=expo"/>
+<br/>
+<img src="https://skills.syvixor.com/api/icons?i=materialui"/>
 <div/>
 
 <div align="left">
   
 #### Backend
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,java,git,nodejs,mysql,express,mongodb,neon,kotlin,prisma,supabase,nextjs&perline=20">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=ts,java,git,nodejs,mysql,express,mongodb,neon,kotlin,prisma,supabase,nextjs&perline=6">
+<br/>
 <img src="https://skills.syvixor.com/api/icons?i=sonarqube,thunderclient"/>
 <div/>
 
@@ -84,8 +89,9 @@ const alice = {
   
 #### Outros
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,miro,arduino,githubactions,docker,vercel,androidstudio&perline=20">
-<img src="https://skills.syvixor.com/api/icons?i=microsoftoffice,trello,hackerrank,leetcode,freecodecamp"/>  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,vscode,gimp,blender,inkscape,miro,arduino,githubactions,docker,vercel,androidstudio&perline=6">
+<br/>
+<img src="https://skills.syvixor.com/api/icons?i=microsoftoffice,trello,hackerrank,leetcode,freecodecamp&perline=6"/>  
 <br/><br/>
 
 <div align="center">
