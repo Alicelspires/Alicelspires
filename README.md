@@ -65,40 +65,23 @@ const alice = {
 ### Skills sempre em aprimoramento:
 
 <div align="left">
-  
+
 #### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react">
-<br/>
-<img src="https://skillicons.dev/icons?i=vite,jest,sass,webpack,vitest">
-<img src="https://skills.syvixor.com/api/icons?i=expo"/>
-<br/>
-<img src="https://skills.syvixor.com/api/icons?i=materialui"/>
-<div/>
+<img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,expo,vite,vitest,materialui,electron,shadcnui&perline=6" />
 
-<div align="left">
-  
-#### Backend
+#### Backend & Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=ts,java,git,nodejs,mysql,express">
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,kotlin,prisma,supabase,nextjs">
-<img src="https://skills.syvixor.com/api/icons?i=neon"/>
-<br/>
-<img src="https://skills.syvixor.com/api/icons?i=sonarqube,thunderclient"/>
-<div/>
+<img src="https://skills.syvixor.com/api/icons?i=nodejs,express,java,kotlin,python,prisma,mysql,mongodb,supabase,postgresql,sqlite,jest,neon,sonarqube,thunderclient&perline=6" />
 
-<div align="left">
-  
-#### Outros
+#### Ferramentas & Outros
 
-<img src="https://skillicons.dev/icons?i=figma,notion,vscode,blender,arduino,githubactions" />
+<img src="https://skills.syvixor.com/api/icons?i=git,docker,githubactions,vercel,vscode,androidstudio,figma,notion,blender,arduino,inkscape,gimp,trello,microsoftoffice,hackerrank,leetcode,freecodecamp,mermaid&perline=6" />
+
+</div>
+
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,vercel,androidstudio" />
-<img src="https://skills.syvixor.com/api/icons?i=inkscape,gimp,trello" />
 <br/>
-<img src="https://skills.syvixor.com/api/icons?i=microsoftoffice,hackerrank,leetcode,freecodecamp&perline=6"/>  
-<br/><br/>
 
 <div align="center">
 
